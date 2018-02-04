@@ -1,2 +1,3 @@
 # openwhisk-workshops
-OpenWhisk Workshop に沿って実装しています。
+[OpenWhisk Workshop](https://github.com/bmxug/openwhisk-workshops/tree/master/bootcamp) に沿って実装しています。
+
